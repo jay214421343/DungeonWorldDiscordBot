@@ -1,4 +1,4 @@
-const token       = process.env.TOKEN;
+const token       = NTgzOTMyMTUyMzkyMDU2ODQz.XPPDPg.TG05ULBmUsC8Bd-3XANKSxP_W5w;
 const dw          = require('dungeonworld-data');
 const Discord     = require('discord.js');
 
